@@ -1,2 +1,2 @@
 # website-flow
-emmental, comté, reblochon
+emmental, comté, reblochon, kaas
